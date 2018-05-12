@@ -1,0 +1,28 @@
+_repo: The-Victorious-Attitude_41901
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41901-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Marden, Orison Swett
+    birthdate: 1848
+    deathdate: 1924
+    gutenberg_agent_id: '1515'
+    url: http://www.gutenberg.org/2009/agents/1515
+    wikipedia: http://en.wikipedia.org/wiki/Orison_Swett_Marden
+description: ''
+gutenberg_issued: '2013-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41901'
+  lccn: '16009671'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life'
+- !lcc 'BJ'
+title: The Victorious Attitude
+url: http://www.gutenberg.org/ebooks/41901
